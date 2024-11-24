@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'paroti';
-  src:  url('fonts/paroti9dc5_puoekl.eot');
-  src:  url('fonts/paroti9dc5_puoekl.eot#iefix') format('embedded-opentype'),
-    url('fonts/paroti9dc5_puoekl.ttf') format('truetype'),
-    url('fonts/paroti9dc5_puoekl.woff') format('woff'),
-    url('fonts/paroti9dc5_puoekl.svg#paroti') format('svg');
+  src:  url('fonts/paroti9dc5.eot?puoekl');
+  src:  url('fonts/paroti9dc5.eot?puoekl#iefix') format('embedded-opentype'),
+    url('fonts/paroti9dc5.ttf?puoekl') format('truetype'),
+    url('fonts/paroti9dc5.woff?puoekl') format('woff'),
+    url('fonts/paroti9dc5.svg?puoekl#paroti') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
